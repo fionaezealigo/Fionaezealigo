@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋 I'm Fiona Ezealigo
 
-<!--
-**fionaezealigo/Fionaezealigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst passionate about transforming data into actionable insights.
 
-Here are some ideas to get you started:
+ 🔧 Skills
+- SQL (PostgreSQL)
+- Microsoft Excel
+- Power BI (Learning)
+- Data Cleaning & Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Projects
+- Retail Sales Analysis (PostgreSQL)
+- Excel Data Analysis Project
+
+🌱 Currently Learning
+- Advanced SQL
+- Power BI Dashboards
+- Data Visualization
+
+📫 Connect With Me
+- Email: fionaezealigo@gmail.com
+- LinkedIn:https://www.linkedin.com/in/fionaezealigo/
